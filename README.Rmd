@@ -6,7 +6,7 @@ params:
   turma: 202205-series
   nome_curso: Séries Temporais
   num_aula: '0'
-  download_material: 'FALSE'
+  download_material: 'TRUE'
 ---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
