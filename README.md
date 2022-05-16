@@ -3,28 +3,28 @@
 
 ## Informações importantes
 
--   [Clique
+  - [Clique
     aqui](https://github.com/curso-r/main-series/raw/master/material_do_curso.zip)
     para baixar o material do curso.
 
--   Nosso blog: <https://curso-r.com/blog/>
+  - Nosso blog: <https://curso-r.com/blog/>
 
--   Nossos livros: [Ciência de Dados em R](https://livro.curso-r.com/) e
+  - Nossos livros: [Ciência de Dados em R](https://livro.curso-r.com/) e
     [Zen do R](https://curso-r.github.io/zen-do-r/)
 
 ## Dúvidas
 
 Fora do horário de aula ou monitoria:
 
--   perguntas gerais sobre o curso deverão ser feitas no Classroom.
+  - perguntas gerais sobre o curso deverão ser feitas no Classroom.
 
--   perguntas sobre R, principalmente as que envolverem código, deverão
+  - perguntas sobre R, principalmente as que envolverem código, deverão
     ser enviadas no [nosso fórum](https://discourse.curso-r.com/).
 
 ## Slides
 
 | slides                                                                                                  | pdf                                                                                                   |
-|:--------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------|
+| :------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------- |
 | [00-preamble.html](https://curso-r.github.io/main-series/slides/00-preamble.html)                       | [NA](https://curso-r.github.io/main-series/NA)                                                        |
 | [01-introducao-ao-curso.html](https://curso-r.github.io/main-series/slides/01-introducao-ao-curso.html) | [01-introducao-ao-curso.pdf](https://curso-r.github.io/main-series/slides/01-introducao-ao-curso.pdf) |
 | [02-introducao-a-TS.html](https://curso-r.github.io/main-series/slides/02-introducao-a-TS.html)         | [02-introducao-a-TS.pdf](https://curso-r.github.io/main-series/slides/02-introducao-a-TS.pdf)         |
@@ -32,17 +32,17 @@ Fora do horário de aula ou monitoria:
 ## Scripts utilizados em aula
 
 | script |
-|:-------|
+| :----- |
 
 ## Lição de casa
 
 | exercicio |
-|:----------|
+| :-------- |
 
 ## Trabalhos finais premiados
 
-| pasta_compactada |
-|:-----------------|
+| pasta\_compactada |
+| :---------------- |
 
 ## Material extra
 
@@ -51,7 +51,7 @@ que comentamos quando tiramos dúvidas (não necessariamente são
 relacionadas com o conteúdo da aula).
 
 | Aula | Tema | Descrição |
-|:-----|:-----|:----------|
+| :--- | :--- | :-------- |
 
 ## Redes sociais da Curso-R
 
