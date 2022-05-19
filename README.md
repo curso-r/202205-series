@@ -31,13 +31,16 @@ Fora do horário de aula ou monitoria:
 
 ## Scripts utilizados em aula
 
-| script |
-| :----- |
+| script                                                                                                      |
+| :---------------------------------------------------------------------------------------------------------- |
+| [scripts/01-intro.R](https://github.com/curso-r/202205-series/blob/master/scripts/01-intro.R)               |
+| [scripts/02-decomposicao.R](https://github.com/curso-r/202205-series/blob/master/scripts/02-decomposicao.R) |
 
 ## Lição de casa
 
-| exercicio |
-| :-------- |
+| exercicio                                                                                          |
+| :------------------------------------------------------------------------------------------------- |
+| [exercicios/02-decomposicao.R](https://curso-r.github.io/main-series/exercicios/02-decomposicao.R) |
 
 ## Trabalhos finais premiados
 
