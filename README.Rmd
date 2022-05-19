@@ -75,7 +75,7 @@ dplyr::mutate(
 ## Scripts utilizados em aula
 
 ```{r}
-pasta <- "exemplos_de_aula/"
+pasta <- "scripts/"
 
 
 knitr::kable(
