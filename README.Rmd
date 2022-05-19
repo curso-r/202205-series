@@ -25,7 +25,7 @@ library(magrittr)
 
 ```{r results='asis'}
 if(params$download_material == TRUE){
- glue::glue("- [Clique aqui](https://github.com/curso-r/{params$main_repo}/raw/master/material_do_curso.zip) para baixar o material do curso.")
+ glue::glue("- [Clique aqui](https://github.com/curso-r/{params$main_repo}/raw/main/material_do_curso.zip) para baixar o material do curso.")
   }
 ```
 
@@ -83,8 +83,8 @@ knitr::kable(
     script = CursoRopen:::list_github_files(params$main_repo, pasta, ".R$"),
     link = paste0(
       "https://github.com/curso-r/",
-      params$turma,
-      "/blob/master/",
+      params$main_repo,
+      "/blob/main/",
       script
     )
   ) %>%
@@ -118,7 +118,7 @@ tibble::tibble(
   link = paste0(
     "https://github.com/curso-r/",
     params$turma,
-    "/raw/master/",
+    "/raw/main/",
     script
   ),
   pasta_compactada = glue::glue("[{script}]({link})")
@@ -190,7 +190,7 @@ if(params$download_material == TRUE){
     "logo: assets/logo.png", '\n',
     "title: {params$nome_curso}", '\n',
     "show_downloads: true", '\n',
-    "link_material: 'https://github.com/curso-r/{params$main_repo}/raw/master/material_do_curso.zip'", '\n'
+    "link_material: 'https://github.com/curso-r/{params$main_repo}/raw/main/material_do_curso.zip'", '\n'
     
     ) %>%
     readr::write_lines( "_config.yml")
