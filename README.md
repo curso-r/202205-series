@@ -4,7 +4,7 @@
 ## Informações importantes
 
   - [Clique
-    aqui](https://github.com/curso-r/main-series/raw/master/material_do_curso.zip)
+    aqui](https://github.com/curso-r/main-series/raw/main/material_do_curso.zip)
     para baixar o material do curso.
 
   - Nosso blog: <https://curso-r.com/blog/>
@@ -31,10 +31,10 @@ Fora do horário de aula ou monitoria:
 
 ## Scripts utilizados em aula
 
-| script                                                                                                      |
-| :---------------------------------------------------------------------------------------------------------- |
-| [scripts/01-intro.R](https://github.com/curso-r/202205-series/blob/master/scripts/01-intro.R)               |
-| [scripts/02-decomposicao.R](https://github.com/curso-r/202205-series/blob/master/scripts/02-decomposicao.R) |
+| script                                                                                                  |
+| :------------------------------------------------------------------------------------------------------ |
+| [scripts/01-intro.R](https://github.com/curso-r/main-series/blob/main/scripts/01-intro.R)               |
+| [scripts/02-decomposicao.R](https://github.com/curso-r/main-series/blob/main/scripts/02-decomposicao.R) |
 
 ## Lição de casa
 
