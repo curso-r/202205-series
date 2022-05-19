@@ -35,12 +35,14 @@ Fora do horário de aula ou monitoria:
 | :------------------------------------------------------------------------------------------------------ |
 | [scripts/01-intro.R](https://github.com/curso-r/main-series/blob/main/scripts/01-intro.R)               |
 | [scripts/02-decomposicao.R](https://github.com/curso-r/main-series/blob/main/scripts/02-decomposicao.R) |
+| [scripts/03-baseline.R](https://github.com/curso-r/main-series/blob/main/scripts/03-baseline.R)         |
 
 ## Lição de casa
 
 | exercicio                                                                                          |
 | :------------------------------------------------------------------------------------------------- |
 | [exercicios/02-decomposicao.R](https://curso-r.github.io/main-series/exercicios/02-decomposicao.R) |
+| [exercicios/03-baseline.R](https://curso-r.github.io/main-series/exercicios/03-baseline.R)         |
 
 ## Trabalhos finais premiados
 
