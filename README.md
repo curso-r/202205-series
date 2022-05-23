@@ -36,6 +36,8 @@ Fora do horário de aula ou monitoria:
 | [scripts/01-intro.R](https://github.com/curso-r/main-series/blob/main/scripts/01-intro.R)               |
 | [scripts/02-decomposicao.R](https://github.com/curso-r/main-series/blob/main/scripts/02-decomposicao.R) |
 | [scripts/03-baseline.R](https://github.com/curso-r/main-series/blob/main/scripts/03-baseline.R)         |
+| [scripts/04-regressao.R](https://github.com/curso-r/main-series/blob/main/scripts/04-regressao.R)       |
+| [scripts/05-suav-exp.R](https://github.com/curso-r/main-series/blob/main/scripts/05-suav-exp.R)         |
 
 ## Lição de casa
 
