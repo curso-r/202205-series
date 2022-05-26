@@ -44,6 +44,7 @@ Fora do horário de aula ou monitoria:
 
 ## Slides
 
+
 ```{r}
 paths <- CursoRopen:::list_github_files(params$main_repo, "slides/", "[0-9]-.*html$") %>% 
   tibble::enframe(value = "paths") %>% 
