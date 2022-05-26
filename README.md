@@ -28,16 +28,18 @@ Fora do horário de aula ou monitoria:
 | [00-preamble.html](https://curso-r.github.io/main-series/slides/00-preamble.html)                       | [NA](https://curso-r.github.io/main-series/NA)                                                        |
 | [01-introducao-ao-curso.html](https://curso-r.github.io/main-series/slides/01-introducao-ao-curso.html) | [01-introducao-ao-curso.pdf](https://curso-r.github.io/main-series/slides/01-introducao-ao-curso.pdf) |
 | [02-introducao-a-TS.html](https://curso-r.github.io/main-series/slides/02-introducao-a-TS.html)         | [02-introducao-a-TS.pdf](https://curso-r.github.io/main-series/slides/02-introducao-a-TS.pdf)         |
+| [03-modelos-arima.html](https://curso-r.github.io/main-series/slides/03-modelos-arima.html)             | [03-modelos-arima.pdf](https://curso-r.github.io/main-series/slides/03-modelos-arima.pdf)             |
 
 ## Scripts utilizados em aula
 
-| script                                                                                                  |
-| :------------------------------------------------------------------------------------------------------ |
-| [scripts/01-intro.R](https://github.com/curso-r/main-series/blob/main/scripts/01-intro.R)               |
-| [scripts/02-decomposicao.R](https://github.com/curso-r/main-series/blob/main/scripts/02-decomposicao.R) |
-| [scripts/03-baseline.R](https://github.com/curso-r/main-series/blob/main/scripts/03-baseline.R)         |
-| [scripts/04-regressao.R](https://github.com/curso-r/main-series/blob/main/scripts/04-regressao.R)       |
-| [scripts/05-suav-exp.R](https://github.com/curso-r/main-series/blob/main/scripts/05-suav-exp.R)         |
+| script                                                                                                                |
+| :-------------------------------------------------------------------------------------------------------------------- |
+| [scripts/01-intro.R](https://github.com/curso-r/main-series/blob/main/scripts/01-intro.R)                             |
+| [scripts/02-decomposicao.R](https://github.com/curso-r/main-series/blob/main/scripts/02-decomposicao.R)               |
+| [scripts/03-baseline.R](https://github.com/curso-r/main-series/blob/main/scripts/03-baseline.R)                       |
+| [scripts/04-regressao.R](https://github.com/curso-r/main-series/blob/main/scripts/04-regressao.R)                     |
+| [scripts/05-suav-exp.R](https://github.com/curso-r/main-series/blob/main/scripts/05-suav-exp.R)                       |
+| [scripts/06-suave-exp-modeltime.R](https://github.com/curso-r/main-series/blob/main/scripts/06-suave-exp-modeltime.R) |
 
 ## Lição de casa
 
